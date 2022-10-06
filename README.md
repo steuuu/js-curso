@@ -22,3 +22,8 @@ Resultados esperados:
 2. Criar uma função para dividir o valor encontrado na soma das notas por 4
 3. Criar uma função para verificar se o aluno está aprovado, reprovado ou precisa de recuperação: Caso o aluno tenha média maior que 7, está aprovado, entre 6 e 7 está em recuperação e menos que 6, rerovado.
 4. Imprimir ao final qual é a media do aluno e qual é o status dele.
+
+### Exer. 3
+1. Criar uma função que recebe o valor a ser sacado, e verifica se existe o valor na conta disponível, se sim mostrar o valor que sobrará na conta, caso o valor seja maior que o disponível mostrar a mensagem: Saldo insuficiente. Valor a ser sacado: 200, Valor disponível: 350
+2. Criar uma função que receber o valor a ser sacado e verifica se é maior que o limite diário: Limite diãrio: 250
+3. O caixa eletrônico tem cedulas de 50 reais apenas, criar uma função que recebe o valor a ser sacado e mostra a quantidade de cédulas que serão entregue
